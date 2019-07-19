@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Neo Sans Std';
-  src: url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/NeoSansStd-Regular.eot');
-  src: url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/NeoSansStd-Regular.eot%23iefix'),
-      url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/NeoSansStd-Regular.woff2') format('woff2'),
-      url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/NeoSansStd-Regular.woff') format('woff'),
-      url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/NeoSansStd-Regular.ttf') format('truetype');
+  src: url('NeoSansStd-Regular.eot');
+  src: url('NeoSansStd-Regular.eot%23iefix'),
+      url('NeoSansStd-Regular.woff2') format('woff2'),
+      url('NeoSansStd-Regular.woff') format('woff'),
+      url('NeoSansStd-Regular.ttf') format('truetype');
 
   font-weight: normal;
   font-style: normal;
@@ -12,10 +12,10 @@
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/icomoon.eot?p1x754');
-  src:  url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/icomoon.eot%3Fp1x754%23iefix') format('embedded-opentype'),
-    url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/icomoon.ttf?p1x754') format('truetype'),
-    url('https://cdn.jsdelivr.net/gh/willianfp/cdn@master/icomoon.woff') format('woff');
+  src:  url('icomoon.eot?p1x754');
+  src:  url('icomoon.eot%3Fp1x754%23iefix') format('embedded-opentype'),
+    url('icomoon.ttf?p1x754') format('truetype'),
+    url('icomoon.woff') format('woff');
 
   font-weight: normal;
   font-style: normal;
