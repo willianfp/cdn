@@ -743,25 +743,25 @@ a.focus:hover,
 }
 @media only screen and (min-width: 768px) {
   .survey-body-wrapper {
-    width: 95%;
+    width: 574px%;
   }
 }
 @media only screen and (min-width: 1024px) {
   .survey-body-wrapper {
-    width: 980px;
+    width: 850px;
     padding-right: 0;
     padding-left: 0;
   }
 }
 @media only screen and (min-width: 1200px) {
   .survey-body-wrapper {
-    width: 1024px;
+    width: 850px;
     margin-top: 30px;
   }
 }
 @media only screen and (min-width: 1400px) {
   .survey-body-wrapper {
-    width: 1300px;
+    width: 850xpx;
   }
 }
 .survey-body-wrapper.has-timer {
