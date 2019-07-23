@@ -10,6 +10,8 @@ body {
   margin: 0;
   padding: 0;
   position: relative;
+  border: 0;
+	vertical-align: baseline;
 }
 html.SurveyRunBody,
 body.SurveyRunBody {
@@ -737,7 +739,6 @@ a.focus:hover,
   width: 100%;
   background: #ffffff;
   margin: 15px auto;
-  padding: 26px 15px 0;
   position: relative;
 }
 @media only screen and (min-width: 768px) {
@@ -1009,6 +1010,7 @@ a.focus:hover,
   margin-bottom: 9px;
   position: relative;
   word-wrap: break-word;
+  text-align: center;
 }
 @media only screen and (min-width: 1024px) {
   .survey-body-wrapper .survey-question-wrapper .question-container {
