@@ -1168,7 +1168,6 @@ a.focus:hover,
 }
 .survey-body-wrapper .survey-question-wrapper .answer-container {
   width: 100%;
-  display: inline-block;
   position: relative;
   vertical-align: top;
 }
@@ -2634,7 +2633,10 @@ a.focus:hover,
   z-index: -1;
 }
 .survey-body-wrapper .survey-question-wrapper .answer-container.smiley-question {
-  text-align: left;
+  text-align: center;
+  padding: 10%;
+	
+	
 }
 .survey-body-wrapper .survey-question-wrapper .answer-container.smiley-question .answer-options {
   width: calc(100% / 5);
