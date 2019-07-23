@@ -2636,6 +2636,7 @@ a.focus:hover,
 }
 .survey-body-wrapper .survey-question-wrapper .answer-container.smiley-question {
   text-align: left;
+  padding-left: 10%;	
 }
 .survey-body-wrapper .survey-question-wrapper .answer-container.smiley-question .answer-options {
   width: calc(100% / 5);
